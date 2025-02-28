@@ -9,7 +9,7 @@ gave suggestions that somewhat overlapped and you can categorize them as new fil
 When developing programs, the first thing you need is a bit of background information. How exactly does my program interact with other things? What kind of data do
 I have and what data do I need? How do I know when I should do X, Y, and Z? Some Agile processes I hope to incorporate would be Scrum Events and CI/CD.
 
-### What does it mean to be a good team member in software development?
+## What does it mean to be a good team member in software development?
 
 Being a good team member means more than just writing code, changing backlogs, or testing code. To be a good team member you need to participate in the Scrum events, 
 collaborate with team members, communicate effectively, take accountability for your tasks, and continuously learn new technologies and best practices.
